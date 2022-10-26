@@ -1,6 +1,6 @@
 Hola, esto es mi primer archivo **markdown**
 
-# Los titlos se ponen con # y un espacio.
+# Los titulos se ponen con # y un espacio.
 
 ## Con dos, se pone un titulo de segundo nivel.
 
