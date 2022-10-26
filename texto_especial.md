@@ -2,7 +2,7 @@ Hola, esto es mi primer archivo **markdown**
 
 # Los titlos se ponen con # y un espacio.
 
-## Con dos, se pone um titulo de segundo nivel.
+## Con dos, se pone un titulo de segundo nivel.
 
 - las listas se ponen con un guion y un espacio
 - Puedo hacer listas de mas nivel: 
